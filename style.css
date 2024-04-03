@@ -1,3 +1,7 @@
-p {color: blueviolet;}
+p {color: rgb(226, 43, 43);}
 h1{font:Arial}
 h1{color: blue}
+img {width: 800px;
+height: 400px;}
+img {width:800px;
+height:600px;}
