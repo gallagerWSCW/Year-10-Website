@@ -1,7 +1,325 @@
+body {
+    background-color: rgb(235, 208, 153);
+}
 p {color: rgb(226, 43, 43);}
-h1{font:Arial}
-h1{color: blue}
+h1{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+h1{color: rgb(1, 125, 107);
+font-style: oblique;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 img {width: 800px;
 height: 400px;}
 img {width:800px;
 height:600px;}
+h2{color: rgb(105, 3, 126);
+font-family:cursive;}
+.cal{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+.Geometry {
+    background-color: rgb(0, 229, 255);
+    border: 5px solid;
+    border-color: #6110c3;
+    color: rgb(111, 0, 255);
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant-numeric: oldstyle-nums;}
+.Algebra {background-color: rgb(235, 161, 228);
+            border: 5px solid ;
+            border-color: rgb(251, 5, 5);
+            border-bottom-left-radius: 20px;
+            border-top-right-radius: 20px;
+            color: rgb(255, 0, 0);
+            font-size-adjust: larger;
+            font-family: cursive;
+            font-variant-numeric: oldstyle-nums;
+            
+       
+    }
+
+    .Volume {
+        width: 700px;
+        height:1000px ;
+    }
+    .Shapes{
+        width:800px;
+        height:1100px;
+    }
+    .Logarithm {
+        background-color: rgb(79, 249, 7);
+        border: 6px ;
+        border-style: double;
+        border-color: darkgreen;
+        color:rgb(255, 8, 0);
+        border-radius: 15px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .logarithm-rules{
+        height: 400px;
+        width: 600px;
+    }
+    .biology{
+        color: brown;
+    font-family:cursive;
+    font-style: oblique;
+    border:7px solid;
+    border-color: rgb(246, 127, 1);
+    background-color: rgb(241, 241, 8);
+    }
+.definitionbiology{
+    color: rgb(249, 5, 5);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    border: 5px solid;
+    border-color: darkblue;
+    border-radius: 7px;
+    background-color: rgb(249, 218, 179);
+}
+.Bio{
+    width: 550px;
+}
+.biology-image{
+    width:600px;
+    height: 500px;
+}
+.plants{
+        color: rgb(15, 15, 223);
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        border: 5px solid;
+        border-color: darkgoldenrod;
+        background-color: burlywood;
+      }
+.photosynthesis{
+        background-color: rgb(247, 225, 240);
+        border: 6px solid;
+        border-style:ridge;
+        border-color: rgb(196, 7, 168);
+        color:rgb(77, 7, 4);
+        border-radius: 8px;
+        font-family:'Times New Roman', Times, serif;
+}
+.process{
+    background-color: rgb(236, 213, 232);
+    border: 6px solid;
+    border-style:ridge;
+    border-color: rgb(188, 11, 161);
+    color:rgb(56, 3, 3);
+    border-radius: 8px;
+    font-family:'Times New Roman', Times, serif;  
+}
+.Parts{
+    width:500px;
+    height: 500px;}
+    .structure{
+        width:600px;
+        height: 500px;
+    }
+    .Photosynthesis{
+        width:575px;
+        height: 420px;
+    }
+    .Ps{
+        width:600px;
+        height:370px;
+    }
+    .Imgsystems{
+        width:600px;
+        height:500px;
+    }
+    .Sketchbody{
+        width:600px;
+        height:450px;  
+    }
+    .topic{
+        font-family:cursive;
+        color: rgb(10, 6, 124);
+    }
+    .circulatory{
+        height:770px;
+        width:560px;
+    }
+    .fun{
+        height:740px;
+        width:640px;
+    }
+    .pgcirculatory{
+        color: blueviolet;
+        font-family: fantasy;
+        background-color: rgb(138, 189, 189);
+        border: 5px solid;
+        border-color: rgb(38, 1, 151);
+        border-bottom-left-radius:10px;
+        border-top-right-radius: 10px;
+    }
+    .imgdigest{
+        width:650px;
+        height:500px;
+    }
+    .digestive-sys{
+        width:550px;
+        height:420px;
+    }
+    .pgdigest{
+        color: brown;
+        font-family: cursive;
+        background-color: rgb(187, 148, 77);
+        border: 6px solid;
+        border-color: black;
+        border-radius: 15px;
+    }
+    .imgres{
+        width:550px;
+        height:640px;
+    }
+    .pgres{
+        color: rgb(165, 110, 42);
+        font-family:cursive;
+        background-color: rgb(227, 233, 190);
+        border: 6px solid;
+        border-color: rgb(250, 86, 4);
+        border-radius: 15px;    
+    }
+    .pgexc{
+        color: rgb(24, 121, 185);
+        font-family:cursive;
+        background-color: rgb(182, 236, 242);
+        border: 6px solid;
+        border-color: rgb(77, 4, 120);
+        border-radius: 15px;    
+    }
+    .imgskel{
+        width:800px;
+        height:525px;
+    }
+    .pgskel{
+        color: rgb(185, 24, 24);
+        font-family:'Times New Roman', Times, serif;
+        background-color: rgb(193, 199, 183);
+        border: 6px solid;
+        border-color: rgb(115, 5, 67);
+        border-radius: 15px;  
+    }
+    .excimg{
+        width:800px;
+        height:725px;
+    }
+    .pgint{
+        color: rgb(45, 133, 18);
+        font-family:'Times New Roman', Times, serif;
+        background-color: rgb(195, 214, 165);
+        border: 6px solid;
+        border-color: rgb(3, 97, 22);
+        border-radius: 15px;    
+    }
+    .pgner{
+        color: rgb(171, 79, 3);
+        font-family:fantasy;
+        background-color: rgb(200, 151, 111);
+        border: 6px solid;
+        border-color: rgb(235, 7, 7);
+        border-radius: 10px; 
+    }
+    .imgner{
+        width:600px;
+        height: 700px;
+    }
+    .pgrep{
+        color: rgb(33, 8, 97);
+        font-family:'Times New Roman', Times, serif;
+        background-color: rgb(109, 233, 242);
+        border: 6px solid;
+        border-color: rgb(58, 4, 97);
+        border-radius: 10px;    
+    }
+    .imgrep{
+        width:800px;
+        height:425px;
+    }
+    .microog{
+        color: rgb(33, 8, 97);
+        font-family:cursive;
+        background-color: rgb(109, 233, 242);
+        border: 5px solid;
+        border-color: rgb(58, 4, 97);
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .micog{
+        height:500px;
+        width:1000px;
+    }
+ /* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: #3aabe7;
+    font-family: Arial;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 26px;
+    font-family: cursive;
+    color: rgb(38, 23, 61);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+    font-family: cursive;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 26px;
+    font-family: cursive;
+    border: none;
+    outline: none;
+    color: rgb(40, 3, 86);
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add a red background color to navbar links on hover */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(255, 30, 0);
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #31d787;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(206, 121, 121, 0.991);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: rgb(229, 11, 244);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ebc95a;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
